@@ -1,0 +1,19 @@
+{
+  "name": "social-media",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadarsh2211/Social-Media.git"
+  },
+  "author": "aadarsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadarsh2211/Social-Media/issues"
+  },
+  "homepage": "https://github.com/aadarsh2211/Social-Media#readme"
+}
